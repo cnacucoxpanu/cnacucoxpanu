@@ -1,6 +1,6 @@
 <div align="center">
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=2F81F7&center=true&width=600&lines=cnacucoxpanu;Junior+Go+developer;Minsk,+Belarus)](https://github.com/cnacucoxpanu)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=A855F7&center=true&width=600&lines=Maksim+Dzerkachou;Junior+Go+developer;Minsk,+Belarus)](https://github.com/cnacucoxpanu)
 
 ![status](https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIP-2ea44f?style=for-the-badge)
 
