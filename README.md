@@ -24,6 +24,12 @@ microservices. Looking for an internship.
 - **databases:** PostgreSQL (pgx, transactions, migrations)
 - **tools:** Git, Docker, Docker Compose, Swagger / OpenAPI
 
+### projects
+
+**[Bookly](https://github.com/cnacucoxpanu/Bookly)**: coworking booking backend in Go, three microservices
+(auth, booking, notification) talking over gRPC and RabbitMQ, PostgreSQL, Docker Compose.
+Includes protection against double booking under concurrent requests.
+
 ### currently
 
 - building Bookly and digging into transactions, isolation levels and concurrency
