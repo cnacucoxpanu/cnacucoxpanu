@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="banner.jpg" width="100%" alt="banner" />
-
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=A855F7&center=true&width=600&lines=Maksim+Dzerkachou;Junior+Go+developer;Minsk,+Belarus)](https://github.com/cnacucoxpanu)
+<img src="banner.svg" width="100%" alt="Maksim Dzerkachou, Junior Go developer" />
 
 ![status](https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIP-2ea44f?style=for-the-badge)
 
