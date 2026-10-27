@@ -1,6 +1,8 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Maksim%20Dzerkachou&fontSize=46&fontColor=ffffff&desc=Junior%20Go%20developer&descSize=20&descAlignY=65)
+<img src="banner.jpg" width="100%" alt="banner" />
+
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=A855F7&center=true&width=600&lines=Maksim+Dzerkachou;Junior+Go+developer;Minsk,+Belarus)](https://github.com/cnacucoxpanu)
 
 ![status](https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIP-2ea44f?style=for-the-badge)
 
@@ -16,7 +18,7 @@ microservices. Looking for an internship.
 ### core skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,postgres,docker,rabbitmq,swagger,git,github" />
+  <img src="https://skillicons.dev/icons?i=go,postgres,docker,rabbitmq,git,github" />
 </p>
 
 - **languages:** Go, SQL
